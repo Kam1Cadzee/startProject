@@ -1,0 +1,2 @@
+Hello world!COntinue write
+End text
