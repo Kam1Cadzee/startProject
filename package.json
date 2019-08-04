@@ -21,6 +21,8 @@
     "node-fetch": "^2.6.0",
     "node-inspect": "^1.11.6",
     "nodemon": "^1.19.1",
-    "promise.allsettled": "^1.0.1"
+    "promise.allsettled": "^1.0.1",
+    "socket.io": "^2.2.0",
+    "ws": "^7.1.1"
   }
 }
